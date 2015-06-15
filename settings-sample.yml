@@ -1,0 +1,6 @@
+// Your authentication token (aka "API key") enables downloading of your data.
+// Copy the string labeled "API key" from here: https://www.quandl.com/account
+authentication_token: YOUR_AUTHENTICATION_TOKEN
+
+// The relative or absolute path to where the downloaded data will be saved
+data_directory:  data
